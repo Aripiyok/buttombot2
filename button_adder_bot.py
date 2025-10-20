@@ -35,7 +35,7 @@ async def handler(event):
             return
 
         # Tambahkan tombol
-        buttons = [[Button.url("📢Channel Backup", "https://t.me/+cVbvBt4YtAk1ODI1")]]
+        buttons = [[Button.url("📢Channel Backup", "https://t.me/+S8uS95LU8GtkYWZl")]]
 
         # Kirim ke target
         await bot.send_message(
